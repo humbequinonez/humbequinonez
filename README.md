@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @humbequinonez
-- 👀 I’m interested in data science and organic chemistry
-- 🌱 I’m currently learning Python for data science
-- 💞️ I’m doing my PhD
+- 👋 Hi, I’m @humbequinonez.
+- 👀 I’m interested in data science and organic chemistry.
+- 🌱 I’m currently learning Python for data science.
+- 💞️ I’m doing my PhD.
 - 📫 How to reach me: humbequinonez@gmail.com
 
 <!---
